@@ -8,4 +8,7 @@
 ![matplotlib](https://img.shields.io/badge/matplotlib-Visualization-11557C?logo=matplotlib)
 ![shap](https://img.shields.io/badge/SHAP-Explainability-FF7043?logo=shap)
 
-This project includes a Jupyter Notebook: [Housing_Price_Prediction_using_linear_model_and_shap.ipynb](./Housing_Price_Prediction_using_linear_model_and_shap.ipynb) for housing price prediction using linear models and SHAP for model interpretability.
+This project includes :
+Jupyter Notebook: [Housing_Price_Prediction_using_linear_model_and_shap.ipynb](./Housing_Price_Prediction_using_linear_model_and_shap.ipynb) for housing price prediction using linear models and SHAP for model interpretability.
+
+Jupyter notebook, [HandsonML_Approach_Housing_Price_Prediction_using_linear_model_and_shap.ipynb](./HandsonML_Approach_Housing_Price_Prediction_using_linear_model_and_shap.ipynb), provides a hands-on approach to the same problem, demonstrating step-by-step implementation and analysis.
